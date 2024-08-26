@@ -5,12 +5,14 @@
     box-sizing: border-box;
 }
 
-body {
-    background-image: url('to\ do\ back.png');
-    background-size: 480px;
+body 
+{
+    /* background: linear-gradient(135deg, #d74177, #ffe98a); */
+    background-image: url(to\ do\ back.png);
+    background-size: 83vh;
     background-color: #c8c8c8;
     background-position: right;
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
