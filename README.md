@@ -3,7 +3,7 @@
 
 <h3>Features</h3>
 
--<b>Responsive Design<b>: Partially optimized for mobile devices, ensuring a smooth user experience on any screen size.<br>
+- <b>Responsive Design<b>: Partially optimized for mobile devices, ensuring a smooth user experience on any screen size.<br>
 - <b>Task Management</B>: Easily add, edit, and delete tasks with a clean and intuitive interface.<br>
 - <b>Local Storage</B>: Automatically saves your tasks in your browser's local storage, so you never lose your progress.<br>
 - <b>Visual Feedback</B>: Completed tasks are visually marked, helping you quickly see what's done and what's pending.<br>
