@@ -7,9 +7,9 @@
 
 body {
     background-image: url('to\ do\ back.png');
-    background-size: cover;
+    background-size: 480px;
     background-color: #c8c8c8;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     height: 100vh;
     display: flex;
