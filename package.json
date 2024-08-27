@@ -1,0 +1,11 @@
+{
+  "name": "to-do-manager",
+  "version": "1.0.0",
+  "description": "<h1>To-Do Manager</h1>\r <p>To-Do-Manager is a simple yet powerful web-based task management application. It helps you organize your daily tasks, set priorities, and ensure that nothing is forgotten. With a responsive design, this app works seamlessly on both desktop and mobile devices, making it perfect for managing your tasks on the go.</p>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
